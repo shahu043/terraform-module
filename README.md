@@ -1,2 +1,1 @@
-# terraform-module
-Terraform module files
+# core-infrastructure
