@@ -1,7 +1,7 @@
 locals {
-  owner        = "ritesh"
+  owner        = "shahu"
   module_name  = "${var.env}-${local.owner}"
-  ssh_key_pair = "ritesh-devops"
+  ssh_key_pair = "terraform-19"
 }
 
 module "networking" {

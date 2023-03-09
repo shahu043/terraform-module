@@ -1,5 +1,5 @@
 locals {
-  owner       = "ritesh"
+  owner       = "shahu"
   module_name = "${var.env}-${local.owner}"
 }
 

@@ -7,7 +7,7 @@ variable "vpc" {
 
 variable "key_name" {
   type    = string
-  default = null
+  default = "terraform-19"
 }
 
 variable "sg_pub_id" {
